@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD candidate in the Human-machine interface (HMI) Lab lead by [Prof. Milin Zhang](https://scholar.google.com.hk/citations?user=otyvO5AAAAAJ) in the Department of Electronic Engineering, Tsinghua University. I received my bachelor degree from the Department of Electronic Engineering, Tsinghua University in 2020.
+I am a PhD candidate at the Human-machine interface (HMI) Lab lead by [Prof. Milin Zhang](https://scholar.google.com.hk/citations?user=otyvO5AAAAAJ) in the Department of Electronic Engineering, Tsinghua University. I received my bachelor degree from the Department of Electronic Engineering, Tsinghua University in 2020.
 
 Research Interests
 ======

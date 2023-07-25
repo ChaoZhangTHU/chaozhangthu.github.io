@@ -16,6 +16,7 @@ My research focus on low power EEG processing in brain-machine interface (BMI) o
 
 Publications
 ======
+
 2023
 ------
 Siqi Han\*, **Chao Zhang\***, Jiaxin Lei, Qingquan Han, Yuhui Du, Anhe Wang, Shuo Bai, Milin Zhang. .Cepstral Analysis Based Artifact Detection, Recognition and Removal for Prefrontal EEG. IEEE Transactions on Circuits and Systems II: Express Briefs (TCAS-II).

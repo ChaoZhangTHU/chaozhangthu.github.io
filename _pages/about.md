@@ -17,11 +17,17 @@ My research focus on low power EEG processing in brain-machine interface (BMI) o
 Publications
 ======
 
+2024
+------
+**Chao Zhang**, Yongxiang Guo, Dawid Sheng, Zhixiong Ma, Chao Sun, Yuwei Zhang, Wenxin Zhao, Fenyan Zhang, Tongfei Wang, Xing Sheng, Milin Zhang. A Closed-loop Brain-Machine Interface SoC Featuring a 0.2μJ/class Multiplexer Based Neural Network. Accepted by 2024 IEEE Custom Integrated Circuits Conference (CICC 2024).
+
 2023
 ------
-Siqi Han\*, **Chao Zhang\***, Jiaxin Lei, Qingquan Han, Yuhui Du, Anhe Wang, Shuo Bai, Milin Zhang. .Cepstral Analysis Based Artifact Detection, Recognition and Removal for Prefrontal EEG. IEEE Transactions on Circuits and Systems II: Express Briefs (TCAS-II).
+Milin Zhang, Ziyao Zhao, Yuan Ma, **Chao Zhang**, Wei Song, Jiaxin Lei, Chao Xie. Wireless Compact Neural Interface for Freely Moving Animal Subjects: A Review on Wireless Neural Interface SoC Designs. IEEE Solid-State Circuits Magazine (SSCM 2023).
 
-Qingquan Han\*, **Chao Zhang\***, Taoming Guo, Yajie Tian, Wei Song, Jiaxin Lei, Qi Li, Anhe Wang, Milin Zhang, Shuo Bai, Xuehai Yan. Hydrogel Nanoarchitectonics of a Flexible and Self‐Adhesive Electrode for Long‐Term Wireless Electroencephalogram Recording and High‐Accuracy Sustained Attention Evaluation. Advanced Materials.
+Siqi Han\*, **Chao Zhang\***, Jiaxin Lei, Qingquan Han, Yuhui Du, Anhe Wang, Shuo Bai, Milin Zhang. Cepstral Analysis Based Artifact Detection, Recognition and Removal for Prefrontal EEG. IEEE Transactions on Circuits and Systems II: Express Briefs (TCAS-II).
+
+Qingquan Han\*, **Chao Zhang\***, Taoming Guo, Yajie Tian, Wei Song, Jiaxin Lei, Qi Li, Anhe Wang, Milin Zhang, Shuo Bai, Xuehai Yan. Hydrogel Nanoarchitectonics of a Flexible and Self‐Adhesive Electrode for Long‐Term Wireless Electroencephalogram Recording and High‐Accuracy Sustained Attention Evaluation. Advanced Materials (AM 2023).
 
 2022
 ------
@@ -39,7 +45,10 @@ Zijian Tang, **Chao Zhang**, Yahao Song, Milin Zhang. Design of a seizure detect
 
 Awards
 ======
+Comprehensive Excellence Award of Tsinghua University 2023  
 Comprehensive Excellence Award of Tsinghua University 2022  
 Excellent Teaching Assistant Scholarship of Department of Electronic Engineering 2022  
 Excellent Teaching Assistant Scholarship of Tsinghua University 2022  
 Comprehensive Excellence Award of Tsinghua University 2019
+Second-class scholarship for freshmen of Tsinghua University 2016
+

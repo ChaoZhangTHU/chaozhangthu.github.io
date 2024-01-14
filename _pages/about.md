@@ -49,6 +49,5 @@ Comprehensive Excellence Award of Tsinghua University 2023
 Comprehensive Excellence Award of Tsinghua University 2022  
 Excellent Teaching Assistant Scholarship of Department of Electronic Engineering 2022  
 Excellent Teaching Assistant Scholarship of Tsinghua University 2022  
-Comprehensive Excellence Award of Tsinghua University 2019
+Comprehensive Excellence Award of Tsinghua University 2019  
 Second-class scholarship for freshmen of Tsinghua University 2016
-
